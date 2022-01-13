@@ -3,6 +3,14 @@
     /* common style */
     body{
         font-family: 'Poppins', sans-serif;
+        background-color: #F3F1FF;
+    }
+
+    .container{
+        background-color: #FFFFFF;
+        width: 870px;
+        height: 679px;
+
     }
 /* top palyers style */
     .players{
