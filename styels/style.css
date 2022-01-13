@@ -1,0 +1,21 @@
+/* fonts */
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;1,200&display=swap');
+    /* common style */
+    body{
+        font-family: 'Poppins', sans-serif;
+    }
+/* top palyers style */
+    .players{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+   
+    }
+    .player{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    }
+    .player img{
+    height: 56px;
+    width: 56px;
+    }
